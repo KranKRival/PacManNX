@@ -1,7 +1,9 @@
 # PacManNX
 
+![alt text](https://github.com/KranKRival/PacManNX/blob/master/screen.png)
+
 A Clone of original Pacman game Ported to the Nintendo Switch
 
-## origin Repo
+## Origin Repo
 
 https://github.com/ebuc99/pacman
