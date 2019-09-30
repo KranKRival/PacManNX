@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/KranKRival/PacManNX/blob/master/screen.png)
 
-A Clone of original Pacman game Ported to the Nintendo Switch
+A Clone of original PacMan For The Nintendo Switch made in C++ using SDL2
 
 ## Origin Repo
 
